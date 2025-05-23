@@ -1,0 +1,12 @@
+/* Temel sıfırlama ve font ayarı */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Press Start 2P', monospace, 'Courier New', Courier, monospace;
+  background: #1a0826;
+  color: #ffe28a;
+}
